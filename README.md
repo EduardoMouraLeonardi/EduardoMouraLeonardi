@@ -10,9 +10,6 @@ Eduardo M. Leonardi, Brasil/Rj
 
 📝 Buscando Estagio em TI: Desenvolvimento, Gerenciamento de Redes e Tecnico em TI.
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 ##
 
 ### ✅Meus Resumos em TI
@@ -37,6 +34,14 @@ Eduardo M. Leonardi, Brasil/Rj
   <img align="center" alt="eduardo_VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
   
+##
+
+### ✨ Minhas Badges
+<div>
+  <a href="https://www.credly.com/earner/earned/badge/d6d495ed-89fc-4242-ac29-784a9fbe3da6">
+  <img align="center" alt="eduardo_HTML" height="120" width="120" src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png">
+</div>
+
 ##
   
 ### 👥 Redes Sociais
