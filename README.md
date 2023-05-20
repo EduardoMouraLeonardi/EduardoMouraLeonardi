@@ -10,6 +10,9 @@ Eduardo M. Leonardi, Brasil/Rj
 
 📝 Buscando Estagio em TI: Desenvolvimento, Gerenciamento de Redes e Tecnico em TI.
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ##
 
 ### ✅Meus Resumos em TI
