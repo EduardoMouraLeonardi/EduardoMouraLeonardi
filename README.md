@@ -7,7 +7,9 @@ Eduardo M. Leonardi, Brasil/Rj
 ### 🌱 Formação
 
 🎓 Colegio Santo Inacio: Informática (Desenvolvimento Web).
+
 🎓 Univercidade Veiga de Almeida: Ciencia da Computação (Periodo 1)
+
 
 📝 Buscando Estagio em TI: Desenvolvimento, Gerenciamento de Redes e Tecnico em TI.
 
